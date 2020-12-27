@@ -1,4 +1,3 @@
-#include <cs50.h>
 #include <stdio.h>
 
 void heap_assembler(int i, int end, int heap[], int direction);
